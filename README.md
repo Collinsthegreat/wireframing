@@ -1,6 +1,6 @@
-# 🧭 Wireframing
+# Wireframing
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Introduction to Wireframing](#-introduction-to-wireframing)  
 2. [Key Elements of Wireframing](#-key-elements-of-wireframing)  
 3. [Types of Wireframes](#-types-of-wireframes)  
